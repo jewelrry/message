@@ -1,7 +1,7 @@
 package model
 
 import (
-	"message/domain"
+	"github.com/jewelrry/message/domain"
 	"time"
 )
 

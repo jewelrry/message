@@ -1,6 +1,6 @@
 package model
 
-import "message/domain"
+import "github.com/jewelrry/message/domain"
 
 type MessageRead struct {
 	Base

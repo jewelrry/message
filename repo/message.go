@@ -2,9 +2,9 @@ package repo
 
 import (
 	"fmt"
+	"github.com/jewelrry/message/domain"
+	"github.com/jewelrry/message/model"
 	"gorm.io/gorm"
-	"message/domain"
-	"message/model"
 	"strings"
 )
 

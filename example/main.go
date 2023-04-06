@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/jewelrry/message"
+	"github.com/jewelrry/message/domain"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
-	"message"
-	"message/domain"
 )
 
 func main() {
