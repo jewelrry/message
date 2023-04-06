@@ -1,4 +1,4 @@
-module message
+module github.com/jewelrry/message
 
 go 1.17
 
