@@ -1,8 +1,8 @@
 package service
 
 import (
-	"message/domain"
-	"message/repo"
+	"github.com/jewelrry/message/domain"
+	"github.com/jewelrry/message/repo"
 )
 
 type MessageService struct {

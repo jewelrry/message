@@ -2,9 +2,9 @@ package message
 
 import (
 	"github.com/facebookgo/inject"
+	"github.com/jewelrry/message/domain"
+	"github.com/jewelrry/message/service"
 	"gorm.io/gorm"
-	"message/domain"
-	"message/service"
 )
 
 type Client struct {
